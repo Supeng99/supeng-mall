@@ -1,6 +1,6 @@
 # Mall 电商后台管理系统
 
-> 前后端分离 Spring Boot + Vue 3 实战项目，适合实习/校招面试展示
+> 前后端分离 Spring Boot + Vue 3 实战项目。
 
 ## 项目概述
 
