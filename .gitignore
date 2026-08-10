@@ -1,0 +1,42 @@
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# Build outputs
+backend/target/
+frontend/dist/
+frontend/node_modules/
+frontend/hs_err_pid*.log
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Local env (none yet, but safety)
+.env
+.env.local
+.env.*.local
+
+# Vite cache
+frontend/node_modules/.vite/
+frontend/node_modules/.vite_temp*/
+
+# Backend runtime
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
